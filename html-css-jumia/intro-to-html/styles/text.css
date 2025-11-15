@@ -1,0 +1,39 @@
+.product-title{
+    font-family: Arial;
+    font-size: 30px;
+    font-weight: bold;
+    width: 280px;
+    line-height: 32px;
+    margin-bottom: 20px;
+}
+.product-price {
+   font-weight: bold; 
+   font-family: Arial;
+   font-size: 28px;
+   margin-top: 0;
+   margin-bottom: 0;
+   background-color: white;
+}
+.stock {
+    margin-top: 0;
+    line-height: 20px;
+    color: #3b3b3be3;
+}
+.product-description {
+    font-size: 20px;
+    margin-right: 0;
+    background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.n {
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Arial;
+    margin-bottom: 100px;
+}
+img {
+    margin-bottom: 0;
+    width: 300px;px;
+    height: 300px;
+    background-color: antiquewhite;
+}
